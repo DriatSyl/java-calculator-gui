@@ -15,9 +15,3 @@ Ein schlanker Taschenrechner in **Java** mit **Swing**-Oberfläche. Unterstützt
 - Swing (javax.swing)
 - JUnit 5 (optional für Tests)
 
-## 🚀 Schnellstart
-
-### Variante A: In IntelliJ
-1. Repository klonen:
-   ```bash
-   git clone https://github.com/<dein-user>/java-calculator-gui.git
